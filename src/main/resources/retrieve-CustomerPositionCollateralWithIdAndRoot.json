@@ -1,0 +1,23 @@
+{
+  "reportRecord" : {},
+  "collateralType" : "collateralType",
+  "reportFormatTemplate" : "reportFormatTemplate",
+  "collateralAssetAllocationState" : "collateralAssetAllocationState",
+  "customerPositionAnalysisReference" : "CPAR709626",
+  "customerCollateralPositionAnalysisReference" : "CCPAR794322",
+  "reportInstanceReference" : "RIR747513",
+  "collateralAssetRecord" : {},
+  "collateralAssetValuationDate" : "09-22-2018",
+  "collateralAssetLoantoValueRatio" : "collateralAssetLoantoValueRatio",
+  "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile",
+  "reportType" : "reportType",
+  "reportPeriod" : "reportPeriod",
+  "productInstanceReference" : "PIR799710",
+  "customerCollateralPositionAnalysisRecord" : {},
+  "collateralAssetReference" : "CAR783839",
+  "collateralAssetValuation" : "collateralAssetValuation",
+  "reportOptionsSelectionCriteria" : "reportOptionsSelectionCriteria",
+  "customerReference" : "CR738371",
+  "customerProductServiceProfile" : "customerProductServiceProfile",
+  "customerProductServiceTypeUsage" : "customerProductServiceTypeUsage"
+}

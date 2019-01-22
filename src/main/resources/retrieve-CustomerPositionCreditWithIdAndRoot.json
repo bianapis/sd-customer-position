@@ -1,0 +1,18 @@
+{
+  "reportRecord" : {},
+  "customerCreditRatingAssessment" : "customerCreditRatingAssessment",
+  "reportFormatTemplate" : "reportFormatTemplate",
+  "customerPositionAnalysisReference" : "CPAR709626",
+  "reportInstanceReference" : "RIR747513",
+  "reportType" : "reportType",
+  "reportPeriod" : "reportPeriod",
+  "productInstanceReference" : "PIR799710",
+  "customerCreditPositionAnalysisReference" : "CCPAR794322",
+  "reportOptionsSelectionCriteria" : "reportOptionsSelectionCriteria",
+  "customerCreditPositionAnalysisRecord" : {},
+  "customerReference" : "CR738371",
+  "customerProductServiceProfile" : "customerProductServiceProfile",
+  "customerCreditRatingNarrative" : "customerCreditRatingNarrative",
+  "customerProductServiceTypeUsage" : "customerProductServiceTypeUsage",
+  "customerCreditRatingAssessmentType" : "consumer"
+}

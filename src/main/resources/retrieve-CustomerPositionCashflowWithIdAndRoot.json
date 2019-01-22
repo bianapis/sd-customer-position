@@ -1,0 +1,15 @@
+{
+  "reportRecord" : {},
+  "reportFormatTemplate" : "reportFormatTemplate",
+  "customerPositionAnalysisReference" : "CPAR709626",
+  "reportInstanceReference" : "RIR747513",
+  "reportType" : "reportType",
+  "reportPeriod" : "reportPeriod",
+  "productInstanceReference" : "PIR799710",
+  "customerCashflowPositionAnalysisRecord" : {},
+  "reportOptionsSelectionCriteria" : "reportOptionsSelectionCriteria",
+  "customerReference" : "CR738371",
+  "customerProductServiceProfile" : "customerProductServiceProfile",
+  "customerProductServiceTypeUsage" : "customerProductServiceTypeUsage",
+  "customerCashflowPositionAnalysisReference" : "CCPAR794322"
+}
